@@ -1,7 +1,7 @@
 /*!
- * Made by Tuhin Kanti Pal
- * Using Own Jiosaavn API  https://github.com/cachecleanerjeet/jiosaavnapi
- * Visit https://tu.hin.life
+ * Made by Toxiclikith
+ * Using Jiosaavn API
+ * Visit https://github.com/Toxiclikith
  */
 
 let params = new URLSearchParams(location.search);
@@ -39,7 +39,7 @@ xmlhttp.open("GET", "https://songapi.thetuhin.com/song?id=" + id, true);
 xmlhttp.send();
 
 /*!
- * Made by Tuhin Kanti Pal
- * Using Own Jiosaavn API  https://github.com/cachecleanerjeet/jiosaavnapi
- * Visit https://tu.hin.life
+ * Made by Toxiclikith
+ * Using Jiosaavn API
+ * Visit https://github.com/Toxiclikith
  */
