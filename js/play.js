@@ -1,7 +1,7 @@
 /*!
- * Made by Tuhin Kanti Pal
- * Using Own Jiosaavn API  https://github.com/cachecleanerjeet/jiosaavnapi
- * Visit https://tu.hin.life
+ * Made by Toxiclikith
+ * Using Jiosaavn API 
+ * Visit https://github.com/Toxiclikith
  */
 
 //get data from parameters
@@ -85,7 +85,7 @@ function share() {
 }
 
 /*!
- * Made by Tuhin Kanti Pal
- * Visit https://tu.hin.life
- * Using Own Jiosaavn API  https://github.com/cachecleanerjeet/jiosaavnapi
+ * Made by Toxiclikith
+ * Visit https://github.com/Toxiclikith
+ * Using Jiosaavn API 
  */
