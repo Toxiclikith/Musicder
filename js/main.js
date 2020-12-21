@@ -1,7 +1,7 @@
 /*!
- * Made by Tuhin Kanti Pal
- * Using Own Jiosaavn API  https://github.com/cachecleanerjeet/jiosaavnapi
- * Visit https://tu.hin.life
+ * Made by Toxiclikith
+ * Using Jiosaavn API 
+ * Visit https://github.com/Toxiclikith
  */
 
 function searchF() {
@@ -86,7 +86,7 @@ window.addEventListener('keydown', function(e) {
 document.addEventListener('contextmenu', event => event.preventDefault());
 
 /*!
- * Made by Tuhin Kanti Pal
- * Using Own Jiosaavn API  https://github.com/cachecleanerjeet/jiosaavnapi
- * Visit https://tu.hin.life
+ * Made by Toxiclikith
+ * Using Jiosaavn API
+ * Visit https://github.con/Toxiclikith
  */
